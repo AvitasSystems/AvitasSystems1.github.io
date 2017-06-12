@@ -128,3 +128,20 @@ ul {
 	list-style-image: url(../img/carrot.png);
 	margin-bottom: 64px;
 }
+.social h3 {
+	padding-top: 16px;
+
+}
+.social {
+	padding-top: 20px;
+	padding-right: 27px;
+}
+.social i{
+	float: right;
+	margin:0px 4px;
+	font-size:27px;
+}
+.footer h2 {
+	margin-bottom: 20px;
+
+}
